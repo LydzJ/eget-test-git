@@ -3,3 +3,12 @@ body {
   padding: 0;
   background-color: beige;
 }
+
+#wrapper {
+  background-color: white;
+  height: 200px;
+  width: 300px;
+  border: 1px solid black;
+  margin: auto;
+  margin-top: 10px;
+}
